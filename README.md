@@ -7,7 +7,7 @@ I love building machine learning models and exploring the intersection of AI and
 - **Currently Intern at CodeAlpha**
 -  **Recent Achievement:** Successfully completed a **Data Science Internship** at **Apexcify Technologies**.
 -  **Background:** IT Graduate with a focus on Data Analytics.
--  **Current Focus:** Developing my **Final Year Project (FYP)** on [Yahan Topic Likhein].
+-  **Current Focus:** Developing my **Final Year Project (FYP)** on AI Based Skin Disease Detection System named by **Dermabot**.
 - **Learning:** Currently diving deeper into Deep Learning and Advanced Feature Engineering.
 
 ###  My Technical Toolbox:
