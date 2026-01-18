@@ -1,5 +1,5 @@
 # Hi Gayes,
-      **I'm Meena Kumari!** 
+**I'm Meena Kumari!** 
 
 I am a passionate **Data Science Enthusiast** and an **IT Graduate** dedicated to turning complex data into actionable insights. 
 I specialize in building predictive models and exploring the intersection of **Generative AI** and Computer Vision.
