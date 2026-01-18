@@ -41,7 +41,7 @@ Check out my internship tasks and projects in detail:
 -  **[CodeAlpha Data Science Tasks](https://github.com/MeenaKumari14/CodeAlpha_DataScience_Internship_Tasks)** - (Sales Prediction, Unemployment Analysis, Iris Classification)
 -  **[Final Year Project_2024](https://github.com/MeenaKumari14/Final_Year_Project)** - (My Multimodal AI Research Project)
 
--  **[ApexcifyTechnologies_DataScience Tasks](https://github.com/MeenaKumari14/Apexcify_Technologies)** - (Data Analysis & Visualization Projects)
+-  **[ApexcifyTechnologies_DataScience_Tasks](https://github.com/MeenaKumari14/Apexcify_Technologies)** - (Data Analysis & Visualization Projects)
   
 ---
 
