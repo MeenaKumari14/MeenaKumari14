@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Meena Kumari! 
 
-<!--
-**MeenaKumari14/MeenaKumari14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Data Science Enthusiast** and an **IT Graduate** with a drive for turning complex data into actionable insights. 
+I love building machine learning models and exploring the intersection of AI and real-world problem solving.
 
-Here are some ideas to get you started:
+### About Me:
+- **Currently Intern at CodeAlpha**
+-  **Recent Achievement:** Successfully completed a **Data Science Internship** at **Apexcify Technologies**.
+-  **Background:** IT Graduate with a focus on Data Analytics.
+-  **Current Focus:** Developing my **Final Year Project (FYP)** on [Yahan Topic Likhein].
+- **Learning:** Currently diving deeper into Deep Learning and Advanced Feature Engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  My Technical Toolbox:
+| Category | Skills |
+| --- | --- |
+| **Languages** | Python (Pandas, NumPy, Scikit-learn), SQL |
+| **Visualization** | Matplotlib, Seaborn |
+| **ML Techniques** | Regression, Classification, EDA, Feature Engineering |
+| **Tools** | Git, GitHub, Jupyter Notebook, VS Code |
+
+###  Featured Projects:
+- **Sales Prediction Model:** Achieved 89.94% accuracy using Linear Regression.
+- **Unemployment Analysis:** Analyzed economic shifts during COVID-19 using Python.
+- **Iris Flower Classification:** Implemented supervised learning for species prediction.
+
+
+###  Let's Connect!
+- **LinkedIn:** https://www.linkedin.com/in/kumarimeena
+- **Email:** kumari.meenasgr2020@gmail.com
+
+## Author
+**Meena Kumari**  
+
+---
+*“Data is the new oil. It’s valuable, but if unrefined it cannot really be used.” – Clive Humby*
