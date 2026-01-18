@@ -7,7 +7,6 @@ I love building machine learning models and exploring the intersection of AI and
 - **Currently:** Data Sciecne Intern at **CodeAlpha** and Python Developer Intern at **Cognify Technologies**
 -  **Recent Achievement:** Successfully completed a **Data Science & Analysis Internship** at **Apexcify Technologies**.
 -  **Background:** IT Graduate with a focus on Data Analytics.
--  **Current Focus:** Developing my **Final Year Project (FYP)** on AI Based Skin Disease Detection System named by **Dermabot**.
 - **Learning:** Currently diving deeper into Deep Learning and Advanced Feature Engineering.
 
 ###  My Technical Toolbox:
